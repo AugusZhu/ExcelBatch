@@ -1,2 +1,2 @@
 # ExcelBatch
-导出Batch作业
+导出Batch作业 针对于大批量的数据EXCEL导出，防止造成服务器宕机，单独部署一台服务器作为EXCEL下载导出
